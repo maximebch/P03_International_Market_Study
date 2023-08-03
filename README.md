@@ -1,4 +1,5 @@
 # P03_International_Market_Study
+<h2><strong><em>Data Analyst Certification by OpenClassrooms, in partnership with&nbsp;ENSAE-ENSAI</em></strong></h2>
 <p><em>Analyzing foreign markets for exportation</em></p>
 <p><em>Skills:</em></p>
 <ul>
